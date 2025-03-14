@@ -1,6 +1,6 @@
 # Biomechanical Analysis of Javelin throw using IMU_sensor_data
 
-## Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development
+## A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development
 
 ### In this project, I have analysed the technical parameters of Javelin throw and ploted the EDA and checked the reliability of the IMU system, further developed into an application.
 
