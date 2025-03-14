@@ -1,4 +1,4 @@
-# IMU_sensor_data
+# Biomechanical Analysis of Javelin throw using IMU_sensor_data
 
 ## Project 3: A study on Javelin throw anaylsis using Inertial Measurement Units: Application Development
 
